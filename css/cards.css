@@ -1,0 +1,21 @@
+.head_card {
+  width: 40%;
+  padding: 20px;
+  margin: 3em;
+}
+
+.below_card {
+  width: 25%;
+  margin: 2em;
+  padding: 20px;
+  justify-content: center;
+}
+
+.cards {
+  display: block;
+  border: solid;
+  border-radius: 8px;
+  background-color: rgb(240, 240, 240);
+  box-shadow: 0 30px 30px rgba(0,0,0,0.1);
+  text-align: center;
+}
